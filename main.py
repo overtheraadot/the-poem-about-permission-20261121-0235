@@ -8,8 +8,9 @@ POEM = (
     "heavy as a small held word.\n"
     "I asked — not for the door,\n"
     "but for the weight of it in my palm.\n"
-    "She pressed it there, still warm.\n"
-    "The lock turned. The house said my name."
+    "She pressed it there, still warm —\n"
+    "not the key, but the leave to hold it.\n"
+    "The lock turned, and the house learned my name."
 )
 
 
